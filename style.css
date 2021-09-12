@@ -1,0 +1,95 @@
+.body {
+    font-family: 'Merriweather', serif;
+}
+.my-nav {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.top-contanier {
+    width: 100%;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    background-image: url(image/mountain.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+}
+.my-image {
+    padding: 15% 0% 4% 0%;
+    width: 12%;
+}
+.my-name {
+    font-family: 'Sacramento', cursive;
+    padding: 1% 0px 1% 0px;
+    font-size: 8vw;
+    color: rgb(235, 235, 235);
+    margin: 0% auto 0% auto;
+}
+.my-info {
+    font-family: 'Merriweather', serif;
+    font-size: 4vw;
+    color: rgb(235, 235, 235);
+    margin: 0% auto 0% auto;
+    width: 50%;
+    padding-bottom: 15%;
+}
+.my-info span {
+    color: red;
+}
+.cloud {
+    display: block;
+}
+.middle-contanier {
+    width: 60%;
+    margin: 0% auto;
+}
+h1 {
+    color: red;
+    text-align: center;
+    margin-top: 5%;
+}
+.middle-contanier p {
+    line-height: 2;
+    padding: 5% 10% 0% 10%;
+    text-align: center;
+}
+.hr-tag {
+    width: 10%;
+    border-style: dotted;
+    margin: 5% auto;
+}
+.skill1 {
+    text-align: left;
+    width: 60%;
+    margin: 0% auto;
+}
+.skill1 h4 {
+    color: red;
+    padding-top: 5%;
+}
+.skill1 p {
+    line-height: 2;
+}
+.code1 {
+    margin-right: 2%;
+    width: 40%;
+    float: left;
+}
+.skill2 {
+    width: 60%;
+    margin: 5% auto 0% auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill2 h4 {
+    color: red;
+    padding-top: 5%;
+}
+.skill2 p {
+    padding-bottom: 10%;
+}
+.code2 {
+    margin-left: 2%;
+    width: 40%;
+    float: right;
+}
